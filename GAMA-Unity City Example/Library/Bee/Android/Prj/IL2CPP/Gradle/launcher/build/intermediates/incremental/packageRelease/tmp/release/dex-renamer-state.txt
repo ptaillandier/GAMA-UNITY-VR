@@ -1,0 +1,4 @@
+#Mon Jun 26 11:01:16 ICT 2023
+base.0=/Users/patricktaillandier/Unity/GAMA-Unity City Example/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

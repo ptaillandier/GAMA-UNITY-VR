@@ -1,0 +1,12 @@
+<linker>
+	<assembly fullname="Oculus.Interaction">
+		<type fullname="Oculus.Interaction.MaterialPropertyVector" preserve="nothing" serialized="true"/>
+		<type fullname="Oculus.Interaction.ProgressCurve" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule">
+		<type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>

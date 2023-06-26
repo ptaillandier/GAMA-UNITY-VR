@@ -1,0 +1,17 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="BaseInteraction">
+			<method name="onHover"/>
+			<method name="onSelect"/>
+		</type>
+		<type fullname="ToEmptySpace">
+			<method name="whenSelected"/>
+		</type>
+		<type fullname="ToHouse">
+			<method name="whenSelected"/>
+		</type>
+		<type fullname="ToOffice">
+			<method name="whenSelected"/>
+		</type>
+	</assembly>
+</linker>
